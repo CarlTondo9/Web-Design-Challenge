@@ -88,7 +88,7 @@ header>h1 {
 } */
 
 a {
-  color: #d21034;
+  color: #FFFFFF;
 }
 
 .Col_container{
@@ -135,7 +135,7 @@ a {
   float:left
 }
 
-#introduction>p{color:black}
+#introduction>p{color:#000000}
 
 #main_figure>h2{position:absolute;
   right:0px;
